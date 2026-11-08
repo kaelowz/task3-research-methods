@@ -1,0 +1,301 @@
+﻿Q Number,Age,Gender,Type_of_residence,Current_CGPA,Financial_stress_level,Discipline_Program,Current_Study_Year,Current_stress_level,Depression_level,Anxiety_level,Overwhelmed_by_academic_workload,Used_counseling_services,Family_history_of_health_issues,Strength_of_social_support,Focus_on_academic_tasks,Average_sleep_duration_per_night,Bedtime_on_regular_nights,Sleep_quality,Difficulty_falling_asleep,Use_of_electronic_devices_before_bed,Night_time_caffeine_consumption,Daytime_sleepiness_during_classes,Hours_spent_daily_on_academic_activities,Physical_activity_per_week,Diet_quality,Smoking_or_substance_use,Chronic_illness,Awareness_of_recommended_sleep,Skipped_class_due_to_poor_sleep_or_stress,Impact_of_stress_on_academic_performance
+1,19,Female,On-Campus,3.85,1,NFE,3,5,1,4,Never,Occasionally,Yes,High,Always,5-6 hrs,After 12 AM,Good,Rarely,Yes,Yes,Rarely,>4 hrs,Moderate,Average,Occasionally,No,Yes,No,Somewhat Positive
+2,18,Male,Off-Campus,3.96,4,CIVIL,3,1,1,1,Rarely,Frequently,Yes,Moderate,Rarely,<5 hrs,After 12 AM,Average,Almost Always,Yes,Yes,Often,1-2 hrs,Low,Good,Occasionally,No,No,No,Somewhat Positive
+3,28,Male,Off-Campus,3.23,1,NFE,2,5,1,3,Often,Never,No,High,Sometimes,7-8 hrs,After 12 AM,Poor,Sometimes,No,No,Never,3-4 hrs,Low,Average,Never,No,No,Yes,No Impact
+4,19,Female,With Family,4.0,1,NFE,3,5,2,1,Sometimes,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Poor,Almost Always,Yes,No,Rarely,3-4 hrs,High,Poor,Never,No,Yes,Yes,Very Positive
+5,21,Female,Off-Campus,3.42,3,CSE,4,3,5,1,Never,Occasionally,No,High,Always,5-6 hrs,After 12 AM,Average,Almost Always,Yes,Yes,Rarely,<1 hrs,Moderate,Good,Occasionally,No,Yes,Yes,Somewhat Negative
+6,18,Female,On-Campus,3.28,1,CSE,2,1,3,2,Often,Never,No,Moderate,Always,7-8 hrs,11-12 AM,Good,Sometimes,Yes,No,Never,3-4 hrs,Low,Good,Never,No,Yes,No,Somewhat Positive
+7,19,Female,On-Campus,3.4,1,NFE,2,5,1,1,Always,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,<1 hrs,Moderate,Good,Never,No,Yes,No,No Impact
+8,27,Female,Off-Campus,3.58,5,LLB,2,4,1,1,Sometimes,Never,No,Low,Often,<5 hrs,After 12 AM,Good,Rarely,No,Yes,Often,>4 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Positive
+9,25,Male,Off-Campus,3.59,1,CIVIL,2,3,1,3,Always,Occasionally,No,Moderate,Sometimes,<5 hrs,After 12 AM,Average,Almost Always,Yes,No,Never,<1 hrs,Moderate,Good,Never,No,Yes,Yes,No Impact
+10,22,Male,Off-Campus,3.93,4,NFE,2,4,1,3,Always,Never,Yes,High,Always,5-6 hrs,After 12 AM,Average,Often,Yes,Yes,Rarely,<1 hrs,Low,Average,Occasionally,No,Yes,No,Somewhat Negative
+11,23,Male,Off-Campus,3.61,1,LLB,4,2,1,3,Sometimes,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Average,Almost Always,Yes,Yes,Often,2-3 hrs,Low,Average,Never,No,Yes,Yes,Somewhat Positive
+12,23,Female,With Family,3.96,1,LLB,2,2,1,1,Often,Frequently,No,High,Always,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,<1 hrs,Low,Average,Never,No,Yes,Yes,Somewhat Negative
+13,18,Male,On-Campus,3.57,3,NFE,2,5,1,3,Rarely,Never,No,Low,Always,5-6 hrs,After 12 AM,Average,Almost Always,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,Yes,Yes,Very Negative
+14,19,Female,On-Campus,3.21,1,NFE,2,5,3,1,Always,Never,No,Low,Always,5-6 hrs,After 12 AM,Good,Sometimes,No,No,Rarely,<1 hrs,Low,Average,Occasionally,No,Yes,No,No Impact
+15,21,Male,Off-Campus,3.59,1,NFE,2,5,1,1,Sometimes,Occasionally,No,Moderate,Rarely,<5 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Often,<1 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Positive
+16,24,Male,With Family,3.97,4,BBA,2,1,1,1,Sometimes,Occasionally,No,Low,Always,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,3-4 hrs,Low,Poor,Never,No,Yes,No,Very Positive
+17,18,Male,Off-Campus,3.96,1,LLB,2,1,1,5,Sometimes,Never,No,Low,Sometimes,<5 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Never,3-4 hrs,Moderate,Average,Occasionally,No,Yes,Yes,Very Positive
+18,24,Female,With Family,3.62,1,LLB,2,1,1,3,Never,Never,No,High,Sometimes,5-6 hrs,After 12 AM,Good,Often,Yes,No,Often,3-4 hrs,Low,Average,Never,No,Yes,No,Somewhat Negative
+19,19,Male,On-Campus,4.0,1,BBA,2,4,1,1,Rarely,Never,Yes,Moderate,Rarely,<5 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,1-2 hrs,High,Average,Never,No,No,No,Somewhat Positive
+20,24,Male,Off-Campus,3.13,2,LLB,2,1,3,1,Never,Occasionally,No,Low,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Never,2-3 hrs,High,Poor,Never,No,Yes,No,Very Positive
+21,25,Female,On-Campus,2.79,2,BBA,2,1,1,2,Rarely,Occasionally,Yes,Low,Always,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Never,<1 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+22,23,Male,With Family,3.63,3,NFE,2,1,4,3,Never,Occasionally,No,Low,Always,5-6 hrs,10-11 PM,Poor,Often,Yes,No,Never,<1 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+23,21,Female,With Family,4.0,3,BBA,2,1,3,1,Sometimes,Frequently,Yes,High,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Rarely,1-2 hrs,Moderate,Poor,Never,No,No,Yes,Somewhat Positive
+24,18,Male,On-Campus,3.1,5,CIVIL,2,2,2,2,Always,Frequently,No,Moderate,Always,7-8 hrs,After 12 AM,Poor,Sometimes,Yes,No,Rarely,<1 hrs,Moderate,Good,Never,No,Yes,No,No Impact
+25,21,Female,On-Campus,3.27,3,CIVIL,2,2,3,2,Always,Never,Yes,Moderate,Never,5-6 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Always,>4 hrs,High,Average,Never,No,Yes,Yes,Very Positive
+26,27,Female,With Family,3.25,1,EEE,2,3,2,4,Often,Occasionally,Yes,Low,Often,5-6 hrs,After 12 AM,Average,Rarely,Yes,Yes,Rarely,2-3 hrs,Moderate,Average,Never,Yes,Yes,Yes,Somewhat Positive
+27,24,Male,Off-Campus,3.22,4,EEE,2,1,2,4,Rarely,Occasionally,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,3-4 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+28,25,Male,Off-Campus,3.72,1,CIVIL,4,4,3,1,Often,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Rarely,No,No,Rarely,2-3 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+29,21,Female,On-Campus,3.64,3,LLB,4,1,1,2,Often,Occasionally,Yes,High,Often,<5 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Always,<1 hrs,Low,Poor,Occasionally,No,Yes,No,Somewhat Negative
+30,27,Male,On-Campus,3.46,1,BBA,4,4,1,1,Never,Frequently,No,Low,Sometimes,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Rarely,1-2 hrs,Moderate,Average,Occasionally,No,Yes,Yes,Somewhat Positive
+31,18,Male,On-Campus,3.61,5,LLB,4,1,1,4,Never,Never,No,High,Sometimes,7-8 hrs,Before 10 PM,Average,Never,No,Yes,Never,1-2 hrs,Moderate,Average,Occasionally,Yes,No,No,Somewhat Positive
+32,28,Female,On-Campus,3.47,1,CIVIL,4,1,1,1,Never,Never,Yes,Moderate,Sometimes,5-6 hrs,11-12 AM,Average,Rarely,Yes,Yes,Rarely,2-3 hrs,High,Average,Never,No,No,No,No Impact
+33,21,Male,Off-Campus,4.0,3,BBA,4,4,2,1,Never,Never,No,Moderate,Sometimes,5-6 hrs,11-12 AM,Good,Sometimes,Yes,No,Rarely,2-3 hrs,Moderate,Average,Occasionally,No,No,No,No Impact
+34,21,Female,Off-Campus,3.13,2,BBA,4,1,1,1,Sometimes,Occasionally,No,Low,Rarely,7-8 hrs,After 12 AM,Good,Almost Always,Yes,No,Always,<1 hrs,Moderate,Poor,Never,No,Yes,No,Very Negative
+35,25,Male,With Family,2.89,5,CSE,4,3,5,2,Rarely,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,>4 hrs,High,Average,Never,No,Yes,No,Very Positive
+36,18,Female,On-Campus,3.39,1,CIVIL,4,3,1,3,Sometimes,Occasionally,No,Moderate,Always,5-6 hrs,After 12 AM,Average,Almost Always,Yes,No,Rarely,1-2 hrs,Moderate,Good,Never,No,Yes,Yes,Somewhat Positive
+37,28,Female,With Family,3.58,2,CSE,4,3,5,1,Rarely,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,2-3 hrs,Moderate,Good,Never,No,Yes,No,Very Positive
+38,21,Female,With Family,3.65,3,NFE,4,1,2,1,Never,Never,No,High,Often,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,No,No,No Impact
+39,24,Female,Off-Campus,3.66,4,CSE,4,3,1,1,Always,Never,Yes,Low,Always,7-8 hrs,After 12 AM,Poor,Rarely,Yes,No,Rarely,2-3 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+40,21,Male,Off-Campus,3.66,3,CSE,4,1,1,4,Rarely,Occasionally,Yes,Low,Always,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Positive
+41,21,Male,On-Campus,3.94,1,LLB,4,2,1,5,Often,Never,No,Low,Sometimes,5-6 hrs,After 12 AM,Poor,Sometimes,Yes,Yes,Always,<1 hrs,Moderate,Poor,Never,No,Yes,Yes,No Impact
+42,28,Female,Off-Campus,3.34,3,LLB,4,1,2,4,Rarely,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Sometimes,No,No,Rarely,>4 hrs,High,Good,Never,No,Yes,Yes,Very Positive
+43,27,Female,Off-Campus,4.0,5,CSE,4,4,2,5,Rarely,Never,Yes,Moderate,Always,7-8 hrs,11-12 AM,Average,Never,Yes,No,Never,1-2 hrs,High,Good,Never,No,Yes,No,Very Positive
+44,19,Male,With Family,3.65,1,LLB,4,1,3,2,Always,Never,Yes,High,Always,5-6 hrs,After 12 AM,Average,Often,Yes,Yes,Always,3-4 hrs,Moderate,Poor,Never,No,Yes,No,No Impact
+45,18,Female,Off-Campus,3.3,5,BBA,4,5,1,1,Sometimes,Occasionally,No,Low,Sometimes,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,2-3 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Negative
+46,21,Female,Off-Campus,3.27,1,CIVIL,4,1,1,3,Never,Never,No,Moderate,Sometimes,7-8 hrs,After 12 AM,Good,Never,Yes,No,Never,2-3 hrs,Moderate,Good,Never,No,Yes,No,No Impact
+47,23,Male,On-Campus,3.4,5,NFE,4,5,1,1,Rarely,Never,No,High,Sometimes,7-8 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,1-2 hrs,Moderate,Good,Never,No,Yes,Yes,No Impact
+48,25,Male,On-Campus,3.93,1,NFE,4,3,2,2,Always,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,3-4 hrs,Low,Average,Frequently,No,Yes,No,No Impact
+49,18,Male,With Family,3.63,3,CSE,4,1,5,3,Never,Occasionally,No,Moderate,Sometimes,5-6 hrs,Before 10 PM,Average,Rarely,No,No,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+50,18,Female,On-Campus,3.64,2,EEE,4,5,2,2,Often,Never,Yes,Low,Always,5-6 hrs,After 12 AM,Average,Never,No,No,Never,2-3 hrs,High,Average,Frequently,No,No,No,Very Positive
+51,25,Male,Off-Campus,3.35,1,NFE,4,4,3,1,Rarely,Never,No,Low,Always,7-8 hrs,After 12 AM,Average,Rarely,No,No,Rarely,>4 hrs,Low,Average,Never,No,Yes,Yes,Very Positive
+52,19,Male,Off-Campus,3.72,3,LLB,4,4,2,2,Never,Never,No,Low,Always,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,3-4 hrs,Low,Good,Never,No,Yes,Yes,Very Positive
+53,22,Male,With Family,3.24,1,BBA,4,4,3,5,Rarely,Occasionally,Yes,Low,Sometimes,5-6 hrs,After 12 AM,Good,Often,Yes,No,Often,2-3 hrs,Moderate,Good,Never,No,Yes,No,Somewhat Negative
+54,22,Female,On-Campus,3.13,5,EEE,3,3,3,2,Rarely,Never,No,Low,Rarely,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,2-3 hrs,Moderate,Average,Never,No,Yes,Yes,No Impact
+55,22,Female,Off-Campus,3.64,3,BBA,3,1,2,1,Never,Occasionally,Yes,Moderate,Sometimes,5-6 hrs,After 12 AM,Average,Never,Yes,No,Often,2-3 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+56,18,Male,With Family,3.49,5,NFE,3,5,3,3,Always,Never,No,Low,Always,7-8 hrs,After 12 AM,Average,Never,Yes,No,Never,2-3 hrs,Moderate,Good,Never,No,Yes,No,Somewhat Positive
+57,23,Male,Off-Campus,2.77,2,BBA,3,5,4,2,Often,Occasionally,Yes,Moderate,Often,5-6 hrs,11-12 AM,Good,Rarely,Yes,No,Rarely,<1 hrs,Low,Average,Never,No,Yes,No,No Impact
+58,22,Female,Off-Campus,2.92,5,NFE,3,2,5,1,Never,Never,No,Low,Often,7-8 hrs,After 12 AM,Good,Never,Yes,Yes,Never,2-3 hrs,Moderate,Good,Never,No,Yes,Yes,Somewhat Negative
+59,23,Female,On-Campus,3.57,2,NFE,3,3,1,2,Often,Never,Yes,Moderate,Always,5-6 hrs,After 12 AM,Average,Never,Yes,No,Never,1-2 hrs,High,Good,Never,No,Yes,Yes,No Impact
+60,23,Female,Off-Campus,3.81,4,NFE,3,2,5,1,Rarely,Occasionally,No,Moderate,Sometimes,>8 hrs,After 12 AM,Poor,Never,Yes,No,Always,>4 hrs,Moderate,Poor,Frequently,No,Yes,Yes,Very Positive
+61,21,Male,With Family,3.2,1,NFE,3,4,1,3,Never,Frequently,Yes,Moderate,Always,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Always,3-4 hrs,Low,Average,Never,No,Yes,No,No Impact
+62,21,Female,With Family,3.28,3,BBA,3,5,3,5,Always,Never,No,Moderate,Often,>8 hrs,After 12 AM,Poor,Never,No,No,Never,>4 hrs,Moderate,Average,Never,No,Yes,Yes,No Impact
+63,23,Male,With Family,3.14,2,NFE,3,5,2,4,Often,Occasionally,No,Moderate,Often,7-8 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,2-3 hrs,Moderate,Good,Occasionally,No,Yes,Yes,Somewhat Negative
+64,19,Male,With Family,3.16,1,LLB,3,3,3,4,Often,Never,Yes,Moderate,Often,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Rarely,3-4 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Negative
+65,28,Female,With Family,4.0,3,NFE,3,4,2,1,Sometimes,Occasionally,Yes,Low,Often,<5 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,2-3 hrs,Moderate,Average,Never,No,No,No,Somewhat Positive
+66,34,Male,With Family,3.36,3,EEE,3,3,1,4,Sometimes,Never,Yes,Low,Sometimes,7-8 hrs,11-12 AM,Poor,Never,Yes,Yes,Often,3-4 hrs,Low,Average,Never,No,Yes,Yes,Very Positive
+67,22,Male,Off-Campus,3.48,4,CIVIL,3,3,2,1,Sometimes,Never,Yes,Moderate,Often,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,2-3 hrs,Moderate,Poor,Never,No,Yes,Yes,Somewhat Negative
+68,34,Female,On-Campus,3.21,3,CIVIL,3,5,1,2,Often,Never,No,Moderate,Always,<5 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,3-4 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+69,23,Female,On-Campus,2.92,1,LLB,3,2,4,4,Sometimes,Frequently,No,High,Always,5-6 hrs,10-11 PM,Average,Rarely,Yes,No,Never,2-3 hrs,Low,Average,Never,No,No,No,No Impact
+70,19,Female,Off-Campus,3.61,1,EEE,3,1,1,3,Always,Never,No,Low,Sometimes,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Often,2-3 hrs,High,Poor,Occasionally,No,Yes,No,Somewhat Negative
+71,28,Male,With Family,3.87,3,LLB,3,2,1,4,Always,Never,No,High,Always,5-6 hrs,After 12 AM,Good,Never,Yes,Yes,Never,3-4 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+72,23,Female,With Family,3.22,2,NFE,3,5,5,4,Never,Occasionally,Yes,High,Often,5-6 hrs,After 12 AM,Poor,Sometimes,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+73,23,Male,On-Campus,3.14,1,NFE,3,5,1,3,Often,Frequently,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,3-4 hrs,Moderate,Average,Occasionally,No,Yes,No,No Impact
+74,21,Female,With Family,3.49,1,CIVIL,3,5,4,1,Always,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Often,>4 hrs,Moderate,Poor,Occasionally,Yes,Yes,Yes,Very Negative
+75,25,Male,On-Campus,3.21,2,CIVIL,3,1,1,1,Never,Never,Yes,Low,Sometimes,<5 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,1-2 hrs,Moderate,Average,Occasionally,No,Yes,No,Somewhat Negative
+76,21,Male,On-Campus,3.62,2,EEE,3,3,1,5,Often,Frequently,No,High,Sometimes,<5 hrs,After 12 AM,Average,Sometimes,Yes,No,Always,>4 hrs,Moderate,Good,Never,No,No,No,Somewhat Negative
+77,18,Female,Off-Campus,3.85,5,NFE,3,5,3,5,Often,Never,No,Moderate,Often,7-8 hrs,After 12 AM,Average,Never,Yes,No,Often,3-4 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+78,24,Male,Off-Campus,3.52,5,LLB,2,1,3,4,Sometimes,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Often,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+79,19,Female,On-Campus,3.13,2,EEE,2,1,1,1,Rarely,Never,No,High,Always,5-6 hrs,After 12 AM,Good,Often,No,No,Never,3-4 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+80,23,Male,With Family,3.77,5,NFE,2,5,1,3,Rarely,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Never,Yes,No,Never,2-3 hrs,High,Average,Never,No,Yes,Yes,No Impact
+81,21,Female,Off-Campus,3.18,1,EEE,2,3,3,1,Rarely,Occasionally,No,Moderate,Always,7-8 hrs,After 12 AM,Good,Never,Yes,No,Never,2-3 hrs,High,Poor,Never,No,Yes,No,No Impact
+82,18,Male,Off-Campus,2.93,2,CSE,2,1,4,1,Often,Never,No,Low,Often,5-6 hrs,After 12 AM,Good,Sometimes,No,Yes,Never,2-3 hrs,Low,Good,Never,No,Yes,No,No Impact
+83,27,Male,With Family,3.19,1,LLB,2,2,2,4,Sometimes,Occasionally,No,Moderate,Often,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,2-3 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+84,21,Male,With Family,2.96,5,NFE,2,5,1,4,Sometimes,Occasionally,Yes,Moderate,Often,7-8 hrs,After 12 AM,Average,Never,Yes,No,Rarely,3-4 hrs,Low,Average,Never,No,Yes,No,No Impact
+85,25,Female,On-Campus,3.16,1,EEE,2,3,1,1,Never,Never,No,Moderate,Sometimes,7-8 hrs,10-11 PM,Average,Almost Always,No,Yes,Always,>4 hrs,Moderate,Average,Occasionally,No,Yes,Yes,No Impact
+86,19,Male,Off-Campus,3.61,5,NFE,3,4,1,3,Sometimes,Occasionally,No,High,Sometimes,<5 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Often,1-2 hrs,Moderate,Poor,Occasionally,No,Yes,No,Very Negative
+87,21,Male,On-Campus,3.62,5,LLB,3,3,4,3,Sometimes,Occasionally,Yes,Moderate,Always,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,>4 hrs,Low,Average,Never,No,No,Yes,Very Positive
+88,18,Female,Off-Campus,3.24,2,CSE,3,1,5,1,Always,Never,Yes,Low,Often,7-8 hrs,11-12 AM,Average,Sometimes,Yes,No,Often,<1 hrs,Moderate,Poor,Never,Yes,Yes,No,Very Positive
+89,21,Female,Off-Campus,3.68,5,CSE,3,3,4,1,Rarely,Frequently,No,Moderate,Always,5-6 hrs,11-12 AM,Good,Rarely,No,No,Never,>4 hrs,Moderate,Good,Never,No,Yes,No,Very Positive
+90,21,Male,Off-Campus,2.78,1,LLB,3,1,2,4,Rarely,Frequently,Yes,High,Sometimes,5-6 hrs,After 12 AM,Good,Almost Always,No,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+91,19,Female,On-Campus,3.8,4,EEE,3,2,4,5,Never,Never,No,Low,Always,5-6 hrs,After 12 AM,Poor,Rarely,Yes,No,Rarely,2-3 hrs,High,Average,Never,No,Yes,Yes,No Impact
+92,21,Male,On-Campus,3.17,4,BBA,3,1,3,1,Often,Never,No,Moderate,Often,7-8 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+93,27,Male,Off-Campus,3.19,3,EEE,3,1,2,2,Rarely,Never,Yes,Moderate,Always,7-8 hrs,After 12 AM,Good,Almost Always,Yes,No,Rarely,>4 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Negative
+94,35,Female,Off-Campus,3.64,4,CIVIL,3,3,2,1,Never,Frequently,Yes,Low,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+95,19,Male,Off-Campus,3.7,5,NFE,3,3,2,1,Sometimes,Frequently,No,High,Often,7-8 hrs,After 12 AM,Good,Almost Always,Yes,No,Never,3-4 hrs,High,Average,Never,No,Yes,No,Somewhat Negative
+96,23,Female,On-Campus,3.52,3,NFE,3,2,1,1,Always,Occasionally,No,Low,Often,7-8 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Often,1-2 hrs,Moderate,Good,Never,No,Yes,Yes,No Impact
+97,19,Male,With Family,3.53,4,EEE,3,4,3,1,Often,Occasionally,No,Low,Often,5-6 hrs,After 12 AM,Good,Sometimes,No,No,Rarely,3-4 hrs,Moderate,Average,Never,No,No,No,Somewhat Negative
+98,22,Male,Off-Campus,3.37,1,NFE,1,4,2,2,Rarely,Occasionally,Yes,High,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,2-3 hrs,Moderate,Average,Never,No,No,No,Somewhat Positive
+99,22,Female,On-Campus,2.86,4,LLB,1,1,3,3,Often,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Never,2-3 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+100,21,Male,Off-Campus,3.36,4,CSE,1,3,5,1,Sometimes,Occasionally,No,Moderate,Always,>8 hrs,After 12 AM,Good,Never,Yes,No,Never,>4 hrs,Low,Poor,Never,No,No,No,Very Positive
+101,34,Male,With Family,3.61,5,LLB,1,4,5,4,Always,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Good,Often,Yes,No,Never,>4 hrs,High,Good,Never,No,Yes,No,No Impact
+102,21,Male,Off-Campus,3.79,3,CIVIL,1,1,3,4,Rarely,Never,No,High,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,<1 hrs,Low,Average,Never,No,No,Yes,Somewhat Negative
+103,27,Female,Off-Campus,3.98,4,LLB,2,1,2,3,Often,Never,No,High,Often,>8 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Often,<1 hrs,Moderate,Poor,Never,No,Yes,No,No Impact
+104,27,Female,Off-Campus,3.23,3,NFE,2,4,1,3,Never,Occasionally,No,Moderate,Never,<5 hrs,After 12 AM,Good,Almost Always,Yes,No,Never,<1 hrs,Moderate,Poor,Never,No,Yes,Yes,No Impact
+105,25,Female,On-Campus,3.22,5,NFE,2,3,5,1,Often,Never,No,High,Often,7-8 hrs,After 12 AM,Average,Rarely,Yes,No,Rarely,<1 hrs,High,Good,Never,No,Yes,No,No Impact
+106,21,Female,With Family,3.12,3,BBA,2,1,5,2,Sometimes,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Often,<1 hrs,Low,Average,Occasionally,No,Yes,No,Very Negative
+107,18,Male,On-Campus,2.98,2,NFE,2,2,2,1,Always,Never,No,Low,Always,7-8 hrs,After 12 AM,Good,Often,Yes,No,Never,2-3 hrs,High,Average,Never,No,Yes,No,Very Positive
+108,21,Female,With Family,3.76,3,EEE,2,5,1,3,Often,Never,Yes,High,Often,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,<1 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+109,23,Female,On-Campus,3.62,2,NFE,2,3,3,4,Never,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Average,Almost Always,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,No,Yes,Somewhat Positive
+110,23,Female,On-Campus,2.95,1,CIVIL,2,3,2,3,Never,Occasionally,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Often,2-3 hrs,Moderate,Average,Never,No,Yes,Yes,No Impact
+111,18,Female,Off-Campus,3.76,4,CSE,2,3,3,1,Sometimes,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Often,Yes,No,Often,<1 hrs,Low,Average,Never,No,Yes,Yes,Somewhat Negative
+112,21,Male,Off-Campus,3.7,4,NFE,2,3,3,1,Rarely,Never,No,Low,Often,<5 hrs,After 12 AM,Good,Never,Yes,No,Never,1-2 hrs,High,Good,Never,No,Yes,No,Somewhat Positive
+113,21,Female,On-Campus,3.72,3,EEE,2,1,2,1,Often,Never,No,High,Sometimes,<5 hrs,After 12 AM,Good,Often,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,No,No,No Impact
+114,25,Male,On-Campus,3.52,1,LLB,2,1,1,4,Often,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Often,Yes,No,Rarely,<1 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+115,21,Male,Off-Campus,3.42,4,NFE,2,1,5,3,Always,Never,No,Low,Never,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Always,<1 hrs,High,Average,Never,No,Yes,Yes,No Impact
+116,19,Male,On-Campus,3.41,4,NFE,2,4,2,5,Sometimes,Occasionally,Yes,High,Always,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,No,No,No Impact
+117,19,Male,On-Campus,3.51,4,LLB,2,1,1,2,Sometimes,Never,No,High,Always,<5 hrs,After 12 AM,Good,Never,Yes,Yes,Never,3-4 hrs,Moderate,Good,Never,No,No,No,Very Positive
+118,21,Female,On-Campus,3.83,1,CSE,1,3,1,1,Often,Never,No,High,Rarely,7-8 hrs,After 12 AM,Good,Almost Always,Yes,No,Never,<1 hrs,Moderate,Average,Occasionally,No,Yes,No,No Impact
+119,21,Female,With Family,3.61,2,CSE,1,3,5,1,Sometimes,Never,No,Low,Always,<5 hrs,After 12 AM,Average,Sometimes,Yes,No,Often,1-2 hrs,Low,Average,Never,No,Yes,Yes,Very Positive
+120,24,Female,Off-Campus,3.52,5,BBA,1,1,1,1,Never,Occasionally,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Rarely,Yes,Yes,Rarely,<1 hrs,High,Average,Never,No,Yes,Yes,Very Positive
+121,18,Female,Off-Campus,3.61,3,BBA,1,3,3,1,Rarely,Never,Yes,Moderate,Never,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,>4 hrs,Moderate,Average,Occasionally,No,No,No,No Impact
+122,21,Female,With Family,2.98,1,EEE,1,1,1,4,Always,Never,Yes,High,Often,>8 hrs,After 12 AM,Average,Often,Yes,Yes,Never,1-2 hrs,Moderate,Poor,Never,No,Yes,Yes,Somewhat Positive
+123,21,Male,On-Campus,3.34,2,EEE,1,3,1,4,Often,Occasionally,Yes,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,1-2 hrs,Moderate,Good,Occasionally,No,Yes,Yes,Very Negative
+124,18,Female,Off-Campus,3.86,2,LLB,1,2,1,5,Never,Frequently,No,High,Always,7-8 hrs,After 12 AM,Good,Never,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+125,25,Male,On-Campus,3.46,3,CSE,1,1,4,3,Sometimes,Occasionally,No,High,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,>4 hrs,Low,Good,Never,No,Yes,No,No Impact
+126,27,Male,On-Campus,3.37,1,NFE,1,4,2,3,Always,Occasionally,No,Moderate,Always,5-6 hrs,After 12 AM,Average,Almost Always,Yes,No,Rarely,3-4 hrs,Low,Average,Never,No,Yes,Yes,Somewhat Positive
+127,21,Female,On-Campus,3.16,2,CSE,1,3,4,5,Never,Never,No,High,Often,5-6 hrs,After 12 AM,Average,Sometimes,No,No,Often,2-3 hrs,Moderate,Good,Never,No,No,Yes,No Impact
+128,21,Male,On-Campus,3.7,3,EEE,1,2,3,1,Always,Never,No,High,Always,7-8 hrs,11-12 AM,Good,Rarely,Yes,No,Rarely,2-3 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+129,27,Female,On-Campus,3.81,2,NFE,1,1,2,5,Rarely,Occasionally,No,Moderate,Sometimes,5-6 hrs,11-12 AM,Average,Sometimes,Yes,No,Rarely,3-4 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+130,23,Female,On-Campus,3.48,1,NFE,1,4,5,2,Sometimes,Never,No,High,Always,5-6 hrs,After 12 AM,Average,Often,Yes,No,Rarely,1-2 hrs,Moderate,Average,Occasionally,No,Yes,Yes,Somewhat Positive
+131,23,Female,On-Campus,3.43,3,NFE,1,4,1,3,Never,Occasionally,Yes,High,Rarely,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Rarely,<1 hrs,High,Average,Never,No,Yes,Yes,Somewhat Positive
+132,25,Male,Off-Campus,3.27,1,NFE,2,1,1,5,Always,Frequently,Yes,Low,Never,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Rarely,<1 hrs,High,Good,Never,No,Yes,Yes,No Impact
+133,24,Female,With Family,3.43,2,CIVIL,2,3,2,1,Often,Frequently,Yes,Low,Always,<5 hrs,After 12 AM,Average,Never,Yes,Yes,Rarely,>4 hrs,Low,Average,Never,No,No,Yes,Very Positive
+134,18,Male,With Family,2.85,3,NFE,2,4,2,5,Never,Never,No,Low,Often,5-6 hrs,11-12 AM,Average,Sometimes,Yes,No,Never,2-3 hrs,Moderate,Good,Frequently,Yes,Yes,No,Somewhat Negative
+135,19,Male,With Family,3.47,1,CIVIL,2,3,1,2,Sometimes,Frequently,No,Moderate,Always,7-8 hrs,After 12 AM,Good,Rarely,Yes,No,Rarely,>4 hrs,Moderate,Average,Never,No,No,Yes,Very Positive
+136,21,Female,With Family,3.39,2,EEE,2,1,2,5,Often,Occasionally,Yes,High,Rarely,5-6 hrs,10-11 PM,Good,Sometimes,Yes,No,Often,>4 hrs,High,Good,Never,No,Yes,No,Very Negative
+137,21,Female,Off-Campus,3.44,3,LLB,2,2,1,1,Never,Never,No,Moderate,Sometimes,7-8 hrs,10-11 PM,Good,Rarely,Yes,No,Never,<1 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+138,18,Male,Off-Campus,3.42,4,CIVIL,2,1,2,3,Never,Occasionally,No,High,Often,7-8 hrs,After 12 AM,Good,Almost Always,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+139,21,Female,On-Campus,3.6,1,LLB,2,1,1,3,Sometimes,Occasionally,No,High,Sometimes,7-8 hrs,After 12 AM,Good,Almost Always,Yes,No,Often,<1 hrs,High,Poor,Never,No,No,No,Somewhat Negative
+140,25,Male,On-Campus,3.6,1,BBA,2,3,2,3,Sometimes,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,<1 hrs,Moderate,Average,Occasionally,Yes,Yes,No,Somewhat Positive
+141,19,Female,Off-Campus,3.54,3,LLB,2,2,5,4,Often,Frequently,No,High,Always,>8 hrs,After 12 AM,Good,Rarely,Yes,Yes,Rarely,>4 hrs,Moderate,Poor,Occasionally,No,Yes,No,Somewhat Negative
+142,18,Female,Off-Campus,3.68,3,EEE,2,3,1,1,Rarely,Frequently,No,Moderate,Always,<5 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Always,1-2 hrs,Moderate,Poor,Never,No,Yes,Yes,Very Positive
+143,23,Male,On-Campus,3.69,3,EEE,2,3,1,1,Rarely,Occasionally,No,High,Always,5-6 hrs,After 12 AM,Average,Never,Yes,Yes,Never,1-2 hrs,Low,Average,Never,No,Yes,No,Somewhat Negative
+144,21,Male,Off-Campus,3.63,5,CSE,2,3,2,3,Often,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,3-4 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+145,22,Female,With Family,4.0,1,LLB,2,5,3,3,Never,Frequently,No,Moderate,Often,5-6 hrs,Before 10 PM,Good,Rarely,Yes,No,Rarely,>4 hrs,Low,Average,Never,No,Yes,No,Somewhat Negative
+146,18,Female,On-Campus,3.63,5,LLB,2,5,1,4,Always,Never,No,High,Often,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,1-2 hrs,High,Average,Never,No,Yes,No,Somewhat Positive
+147,21,Female,On-Campus,3.27,4,LLB,2,5,1,5,Often,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,3-4 hrs,Low,Average,Never,No,Yes,Yes,No Impact
+148,23,Female,On-Campus,3.48,2,LLB,2,5,1,5,Never,Occasionally,Yes,Low,Always,>8 hrs,After 12 AM,Average,Sometimes,Yes,No,Often,>4 hrs,High,Average,Occasionally,No,Yes,Yes,Very Positive
+149,21,Female,With Family,3.19,4,NFE,4,5,3,2,Often,Never,No,High,Rarely,5-6 hrs,11-12 AM,Good,Never,Yes,No,Often,3-4 hrs,Low,Average,Never,No,Yes,Yes,Somewhat Positive
+150,21,Female,On-Campus,3.73,1,CIVIL,4,2,5,1,Always,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,<1 hrs,Moderate,Average,Never,No,Yes,Yes,No Impact
+151,19,Female,With Family,3.23,1,CSE,4,3,5,3,Sometimes,Never,No,Moderate,Rarely,5-6 hrs,After 12 AM,Good,Rarely,No,Yes,Always,<1 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+152,24,Male,On-Campus,3.17,2,LLB,4,1,2,3,Sometimes,Never,No,Moderate,Always,5-6 hrs,10-11 PM,Poor,Rarely,Yes,Yes,Never,>4 hrs,Low,Average,Never,No,Yes,No,Very Positive
+153,19,Female,On-Campus,3.64,1,CSE,4,2,3,1,Often,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Average,Never,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+154,23,Female,Off-Campus,3.64,1,LLB,4,2,3,2,Always,Never,No,Moderate,Rarely,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Often,>4 hrs,Moderate,Good,Never,No,Yes,Yes,Very Positive
+155,28,Male,Off-Campus,3.22,5,CSE,4,2,1,2,Rarely,Never,No,High,Rarely,5-6 hrs,After 12 AM,Good,Often,Yes,No,Often,1-2 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+156,27,Female,With Family,3.43,1,EEE,4,1,1,1,Always,Occasionally,No,High,Often,<5 hrs,After 12 AM,Good,Never,Yes,Yes,Often,<1 hrs,High,Average,Never,No,Yes,Yes,No Impact
+157,19,Female,On-Campus,3.22,2,CSE,4,2,1,3,Always,Occasionally,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Often,Yes,No,Never,2-3 hrs,Moderate,Poor,Never,Yes,Yes,No,Very Positive
+158,18,Female,With Family,3.58,4,EEE,4,3,1,3,Sometimes,Frequently,Yes,Moderate,Often,5-6 hrs,After 12 AM,Average,Often,Yes,No,Rarely,2-3 hrs,Moderate,Poor,Occasionally,No,Yes,No,Somewhat Positive
+159,19,Male,Off-Campus,3.58,5,CSE,4,1,5,2,Rarely,Frequently,No,High,Often,7-8 hrs,11-12 AM,Average,Rarely,Yes,No,Rarely,<1 hrs,High,Poor,Never,No,Yes,No,Somewhat Negative
+160,21,Male,With Family,3.78,1,CIVIL,4,5,1,3,Rarely,Occasionally,Yes,Low,Sometimes,7-8 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Very Negative
+161,23,Male,With Family,3.45,1,EEE,4,1,2,1,Always,Never,No,Low,Always,5-6 hrs,After 12 AM,Good,Never,Yes,Yes,Never,3-4 hrs,Moderate,Average,Occasionally,No,Yes,Yes,Very Positive
+162,22,Female,Off-Campus,3.15,5,NFE,4,1,5,3,Often,Never,Yes,Moderate,Always,7-8 hrs,After 12 AM,Good,Never,Yes,Yes,Never,<1 hrs,High,Average,Never,No,Yes,No,Very Positive
+163,27,Male,On-Campus,3.74,1,BBA,4,1,1,1,Never,Never,No,Low,Sometimes,5-6 hrs,After 12 AM,Poor,Often,Yes,No,Never,2-3 hrs,Moderate,Average,Never,Yes,Yes,No,No Impact
+164,19,Female,Off-Campus,3.8,4,LLB,4,1,1,1,Rarely,Never,No,Moderate,Always,<5 hrs,After 12 AM,Good,Often,Yes,No,Never,3-4 hrs,Low,Average,Occasionally,No,Yes,No,Very Positive
+165,24,Female,With Family,3.21,5,LLB,4,1,4,5,Never,Never,No,High,Always,>8 hrs,After 12 AM,Good,Rarely,Yes,No,Rarely,2-3 hrs,High,Average,Never,No,Yes,Yes,Somewhat Negative
+166,22,Male,Off-Campus,3.77,2,BBA,4,5,1,1,Sometimes,Frequently,Yes,Moderate,Always,>8 hrs,After 12 AM,Poor,Almost Always,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,Yes,Yes,No Impact
+167,28,Female,On-Campus,2.98,1,EEE,4,1,1,2,Sometimes,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Almost Always,No,No,Never,3-4 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+168,25,Female,Off-Campus,3.63,1,CSE,4,3,4,2,Often,Never,No,Low,Sometimes,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,>4 hrs,High,Average,Never,No,Yes,No,Very Negative
+169,18,Male,On-Campus,3.2,3,CSE,4,3,3,3,Sometimes,Never,Yes,Low,Sometimes,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,<1 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+170,21,Female,With Family,3.16,2,LLB,4,1,2,2,Never,Occasionally,Yes,Low,Always,>8 hrs,11-12 AM,Good,Sometimes,Yes,No,Rarely,1-2 hrs,Low,Average,Occasionally,No,Yes,Yes,Very Positive
+171,25,Female,Off-Campus,3.37,5,LLB,3,3,3,3,Always,Never,No,High,Rarely,7-8 hrs,11-12 AM,Good,Never,Yes,No,Often,2-3 hrs,Moderate,Good,Never,No,Yes,No,Very Positive
+172,24,Male,On-Campus,2.92,2,CIVIL,3,1,5,2,Never,Occasionally,Yes,High,Sometimes,7-8 hrs,11-12 AM,Average,Sometimes,Yes,No,Rarely,1-2 hrs,Moderate,Average,Occasionally,No,Yes,No,Somewhat Positive
+173,25,Female,On-Campus,3.89,1,NFE,3,4,2,1,Sometimes,Frequently,No,Low,Sometimes,<5 hrs,After 12 AM,Average,Rarely,Yes,No,Never,1-2 hrs,Low,Average,Occasionally,No,Yes,No,Somewhat Positive
+174,24,Male,On-Campus,3.59,4,NFE,3,4,1,1,Often,Frequently,No,High,Often,7-8 hrs,After 12 AM,Average,Never,Yes,No,Never,<1 hrs,Low,Poor,Never,No,Yes,No,Very Positive
+175,21,Female,Off-Campus,3.4,1,EEE,3,3,1,5,Rarely,Never,No,Moderate,Sometimes,7-8 hrs,After 12 AM,Average,Almost Always,Yes,No,Often,<1 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Negative
+176,21,Female,On-Campus,3.37,2,LLB,3,1,3,5,Rarely,Frequently,No,Moderate,Often,7-8 hrs,11-12 AM,Good,Often,No,Yes,Never,2-3 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+177,19,Female,Off-Campus,3.95,5,NFE,3,3,3,4,Often,Never,No,Moderate,Often,7-8 hrs,11-12 AM,Average,Rarely,Yes,No,Never,2-3 hrs,Low,Average,Never,No,Yes,No,No Impact
+178,22,Female,On-Campus,3.24,2,LLB,3,3,1,1,Sometimes,Never,Yes,Moderate,Always,<5 hrs,After 12 AM,Average,Never,Yes,No,Rarely,3-4 hrs,Low,Average,Never,No,Yes,No,No Impact
+179,21,Female,Off-Campus,3.21,1,BBA,3,1,3,1,Always,Never,No,Moderate,Often,7-8 hrs,After 12 AM,Good,Rarely,Yes,No,Never,2-3 hrs,High,Average,Never,No,Yes,No,Somewhat Positive
+180,19,Female,Off-Campus,3.28,1,LLB,3,1,1,3,Always,Occasionally,No,High,Sometimes,5-6 hrs,11-12 AM,Good,Never,Yes,No,Never,1-2 hrs,Moderate,Good,Never,No,Yes,No,Somewhat Positive
+181,18,Female,On-Campus,3.44,5,CIVIL,3,4,3,3,Always,Occasionally,No,Moderate,Rarely,5-6 hrs,11-12 AM,Good,Often,Yes,No,Never,<1 hrs,High,Average,Never,No,Yes,Yes,Very Negative
+182,28,Female,On-Campus,3.53,3,LLB,3,3,1,1,Rarely,Never,No,High,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,<1 hrs,High,Average,Never,No,No,No,Very Negative
+183,18,Male,Off-Campus,3.58,5,NFE,3,1,3,2,Rarely,Occasionally,No,Moderate,Always,>8 hrs,After 12 AM,Good,Often,Yes,No,Never,2-3 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Negative
+184,18,Male,With Family,3.52,5,CIVIL,3,1,5,1,Sometimes,Occasionally,No,Low,Sometimes,5-6 hrs,11-12 AM,Good,Often,Yes,Yes,Often,3-4 hrs,High,Poor,Frequently,No,Yes,Yes,No Impact
+185,21,Female,On-Campus,3.3,1,LLB,3,1,1,3,Often,Never,No,Low,Sometimes,5-6 hrs,After 12 AM,Average,Sometimes,Yes,Yes,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Negative
+186,21,Male,With Family,4.0,3,EEE,3,5,3,1,Sometimes,Never,No,High,Always,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,1-2 hrs,High,Poor,Never,No,Yes,No,Very Positive
+187,18,Female,Off-Campus,3.8,3,BBA,3,3,3,1,Rarely,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Never,1-2 hrs,Moderate,Average,Never,Yes,No,No,Somewhat Positive
+188,27,Female,On-Campus,3.57,3,NFE,3,4,1,3,Sometimes,Never,Yes,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Rarely,<1 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+189,28,Male,On-Campus,3.47,1,NFE,3,2,3,3,Never,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Poor,Almost Always,Yes,Yes,Rarely,2-3 hrs,Low,Good,Never,No,Yes,Yes,No Impact
+190,24,Male,On-Campus,3.69,1,CSE,3,3,4,4,Often,Frequently,Yes,Moderate,Always,5-6 hrs,After 12 AM,Average,Sometimes,Yes,Yes,Rarely,<1 hrs,Moderate,Average,Never,Yes,No,Yes,Very Positive
+191,23,Female,With Family,3.35,1,CSE,3,3,4,1,Often,Occasionally,No,Low,Sometimes,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Often,1-2 hrs,Moderate,Poor,Never,No,Yes,Yes,Somewhat Negative
+192,23,Male,Off-Campus,3.49,1,LLB,3,5,5,4,Rarely,Never,No,Low,Always,<5 hrs,After 12 AM,Average,Rarely,Yes,No,Often,1-2 hrs,Moderate,Average,Occasionally,No,Yes,No,Very Positive
+193,21,Male,Off-Campus,3.41,5,EEE,3,5,4,2,Sometimes,Never,Yes,High,Always,5-6 hrs,Before 10 PM,Average,Never,Yes,No,Rarely,<1 hrs,High,Good,Never,No,Yes,No,Very Positive
+194,22,Female,With Family,2.95,4,NFE,3,3,2,3,Often,Never,Yes,High,Often,7-8 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,1-2 hrs,Low,Average,Frequently,No,Yes,Yes,Somewhat Negative
+195,22,Male,On-Campus,3.55,5,LLB,3,4,3,5,Rarely,Never,No,High,Sometimes,7-8 hrs,After 12 AM,Average,Rarely,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,No,No,Somewhat Positive
+196,25,Female,Off-Campus,3.3,1,Pharmacy,3,5,1,1,Often,Never,No,High,Sometimes,5-6 hrs,After 12 AM,Average,Never,Yes,Yes,Never,<1 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+197,25,Female,Off-Campus,3.53,3,Pharmacy,3,3,1,4,Never,Occasionally,No,High,Always,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Never,<1 hrs,High,Good,Frequently,No,Yes,No,Very Positive
+198,23,Female,On-Campus,3.83,5,EEE,4,1,3,1,Often,Frequently,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Never,Yes,No,Always,<1 hrs,High,Poor,Never,No,Yes,No,Somewhat Positive
+199,18,Female,On-Campus,3.49,2,EEE,4,5,1,2,Often,Occasionally,Yes,High,Always,7-8 hrs,After 12 AM,Good,Rarely,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+200,23,Male,On-Campus,3.59,4,CSE,4,3,5,4,Sometimes,Occasionally,Yes,High,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+201,23,Male,Off-Campus,4.0,1,Pharmacy,4,2,1,3,Rarely,Occasionally,Yes,Low,Always,7-8 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Never,>4 hrs,Moderate,Average,Never,No,Yes,Yes,Very Negative
+202,21,Female,On-Campus,3.48,5,CSE,4,3,4,2,Sometimes,Never,Yes,Moderate,Often,<5 hrs,After 12 AM,Good,Rarely,Yes,No,Rarely,1-2 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+203,23,Female,On-Campus,3.74,1,CIVIL,4,2,2,2,Often,Occasionally,Yes,Moderate,Sometimes,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Always,<1 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+204,21,Male,Off-Campus,3.57,3,Pharmacy,4,1,1,2,Sometimes,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Often,Yes,Yes,Never,3-4 hrs,Low,Good,Never,No,Yes,No,Somewhat Negative
+205,21,Male,With Family,3.36,2,LLB,4,1,3,4,Sometimes,Never,Yes,Moderate,Always,<5 hrs,After 12 AM,Average,Rarely,Yes,No,Never,1-2 hrs,High,Poor,Occasionally,No,Yes,No,Very Positive
+206,18,Female,With Family,3.85,1,CSE,4,2,2,1,Sometimes,Frequently,No,High,Always,7-8 hrs,After 12 AM,Average,Never,Yes,No,Never,1-2 hrs,Moderate,Poor,Never,No,Yes,No,Very Positive
+207,21,Male,With Family,3.87,1,CSE,4,1,2,3,Always,Occasionally,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,>4 hrs,Low,Poor,Never,No,Yes,Yes,Somewhat Negative
+208,21,Male,On-Campus,3.3,2,CSE,4,1,4,1,Never,Never,No,Moderate,Sometimes,7-8 hrs,10-11 PM,Good,Rarely,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+209,27,Female,On-Campus,3.43,1,LLB,4,1,3,5,Never,Frequently,No,High,Always,5-6 hrs,After 12 AM,Poor,Almost Always,Yes,Yes,Always,1-2 hrs,Low,Good,Occasionally,No,Yes,No,Somewhat Negative
+210,22,Male,On-Campus,3.87,2,LLB,4,1,1,1,Rarely,Never,No,High,Often,>8 hrs,After 12 AM,Average,Almost Always,Yes,Yes,Rarely,>4 hrs,Low,Average,Never,No,No,Yes,Somewhat Negative
+211,21,Female,On-Campus,3.37,4,Pharmacy,4,3,1,5,Often,Occasionally,No,Moderate,Often,7-8 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Rarely,3-4 hrs,Moderate,Good,Never,No,Yes,Yes,Somewhat Negative
+212,24,Male,On-Campus,3.24,4,CIVIL,4,2,4,1,Never,Occasionally,No,High,Rarely,<5 hrs,After 12 AM,Good,Almost Always,Yes,No,Rarely,1-2 hrs,Moderate,Poor,Never,No,Yes,Yes,No Impact
+213,18,Female,On-Campus,3.23,1,Pharmacy,4,3,2,4,Rarely,Never,Yes,High,Always,<5 hrs,After 12 AM,Average,Almost Always,Yes,No,Rarely,<1 hrs,Moderate,Average,Never,No,Yes,No,No Impact
+214,19,Male,On-Campus,3.23,1,EEE,4,3,3,4,Never,Never,No,High,Never,5-6 hrs,After 12 AM,Average,Sometimes,Yes,Yes,Rarely,<1 hrs,Moderate,Average,Occasionally,No,No,No,Very Positive
+215,21,Female,With Family,3.43,3,EEE,4,5,1,4,Never,Never,No,High,Always,7-8 hrs,After 12 AM,Average,Rarely,Yes,No,Rarely,2-3 hrs,Moderate,Poor,Never,No,Yes,No,Very Positive
+216,23,Male,Off-Campus,2.99,3,BBA,4,1,5,4,Often,Frequently,Yes,Moderate,Sometimes,7-8 hrs,After 12 AM,Average,Almost Always,Yes,No,Never,<1 hrs,Low,Average,Occasionally,No,Yes,No,No Impact
+217,19,Male,On-Campus,3.7,5,Pharmacy,4,3,1,3,Always,Occasionally,No,Low,Always,>8 hrs,After 12 AM,Average,Often,Yes,No,Often,1-2 hrs,Low,Poor,Frequently,No,Yes,Yes,Very Negative
+218,21,Female,With Family,3.49,1,Pharmacy,4,5,1,3,Always,Never,No,High,Always,5-6 hrs,After 12 AM,Average,Sometimes,Yes,Yes,Never,>4 hrs,Moderate,Poor,Never,No,Yes,No,No Impact
+219,25,Female,With Family,3.93,4,CIVIL,4,3,1,1,Always,Never,No,Low,Often,7-8 hrs,After 12 AM,Average,Rarely,Yes,No,Rarely,1-2 hrs,Low,Good,Never,No,Yes,No,Very Positive
+220,24,Male,On-Campus,3.3,5,LLB,4,3,1,2,Rarely,Never,Yes,High,Always,7-8 hrs,After 12 AM,Average,Never,Yes,No,Never,1-2 hrs,Low,Average,Never,No,Yes,No,No Impact
+221,21,Female,With Family,3.66,3,Pharmacy,4,1,5,5,Never,Frequently,Yes,Moderate,Sometimes,<5 hrs,After 12 AM,Good,Almost Always,Yes,No,Often,<1 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Positive
+222,25,Female,On-Campus,4.0,4,LLB,4,1,1,4,Always,Occasionally,No,Moderate,Often,7-8 hrs,After 12 AM,Poor,Sometimes,Yes,Yes,Rarely,2-3 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+223,22,Female,On-Campus,3.41,1,LLB,3,4,3,5,Rarely,Occasionally,No,Moderate,Often,5-6 hrs,After 12 AM,Poor,Often,Yes,No,Rarely,3-4 hrs,Moderate,Poor,Never,Yes,Yes,No,Very Positive
+224,21,Female,With Family,3.21,2,CSE,3,1,1,3,Often,Never,Yes,High,Sometimes,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Never,>4 hrs,High,Good,Never,Yes,Yes,No,Somewhat Negative
+225,19,Male,Off-Campus,3.5,1,Pharmacy,3,1,1,2,Never,Never,Yes,Low,Often,<5 hrs,Before 10 PM,Good,Almost Always,Yes,No,Never,3-4 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+226,18,Female,On-Campus,3.21,1,EEE,3,2,1,1,Sometimes,Never,No,High,Always,5-6 hrs,After 12 AM,Average,Rarely,Yes,No,Rarely,2-3 hrs,Low,Average,Never,No,Yes,No,Very Positive
+227,18,Male,Off-Campus,3.18,2,Pharmacy,3,3,3,1,Never,Never,No,High,Often,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Rarely,<1 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Positive
+228,23,Female,Off-Campus,3.7,2,Pharmacy,4,2,3,2,Rarely,Never,No,High,Always,5-6 hrs,After 12 AM,Good,Almost Always,Yes,No,Never,1-2 hrs,Low,Average,Never,No,No,No,No Impact
+229,21,Female,On-Campus,3.63,1,EEE,3,4,2,5,Always,Never,No,Moderate,Always,7-8 hrs,After 12 AM,Average,Rarely,Yes,Yes,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+230,23,Female,With Family,3.72,1,CSE,4,1,3,1,Sometimes,Never,Yes,High,Always,5-6 hrs,After 12 AM,Average,Rarely,Yes,Yes,Rarely,>4 hrs,Low,Poor,Never,No,Yes,No,Somewhat Negative
+231,24,Female,On-Campus,3.28,3,CSE,3,5,4,1,Always,Never,No,High,Always,7-8 hrs,11-12 AM,Good,Rarely,Yes,Yes,Never,>4 hrs,Low,Average,Never,No,Yes,No,No Impact
+232,22,Female,Off-Campus,3.63,4,LLB,2,3,4,1,Often,Occasionally,No,High,Often,7-8 hrs,After 12 AM,Poor,Never,Yes,No,Often,1-2 hrs,High,Average,Never,No,Yes,No,Very Positive
+233,18,Male,With Family,2.97,4,CIVIL,1,1,3,1,Often,Never,Yes,Moderate,Sometimes,5-6 hrs,After 12 AM,Average,Sometimes,Yes,No,Often,<1 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+234,18,Male,Off-Campus,3.89,4,Pharmacy,3,4,2,1,Rarely,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Average,Never,Yes,No,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+235,21,Male,Off-Campus,3.58,2,CSE,2,1,3,3,Rarely,Never,No,Moderate,Sometimes,<5 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Negative
+236,19,Female,Off-Campus,3.44,2,BBA,4,1,4,3,Sometimes,Never,Yes,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,Yes,Rarely,>4 hrs,Low,Good,Occasionally,No,Yes,Yes,Somewhat Negative
+237,22,Male,On-Campus,3.64,4,BBA,4,5,2,3,Rarely,Never,Yes,Moderate,Sometimes,<5 hrs,After 12 AM,Average,Almost Always,Yes,No,Often,1-2 hrs,Moderate,Poor,Never,No,Yes,No,No Impact
+238,19,Male,With Family,3.15,2,Pharmacy,4,4,1,2,Never,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Almost Always,Yes,Yes,Rarely,2-3 hrs,Low,Good,Never,No,Yes,No,No Impact
+239,19,Female,With Family,3.16,4,Pharmacy,4,3,3,5,Always,Never,No,Moderate,Always,5-6 hrs,10-11 PM,Good,Sometimes,Yes,No,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+240,21,Male,On-Campus,3.41,3,EEE,4,1,4,1,Never,Occasionally,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+241,21,Female,With Family,3.7,5,EEE,4,2,3,1,Never,Never,Yes,Moderate,Always,7-8 hrs,After 12 AM,Average,Rarely,Yes,No,Never,2-3 hrs,Low,Good,Never,No,Yes,No,Very Positive
+242,23,Female,On-Campus,3.94,2,CSE,4,5,5,3,Often,Never,No,Low,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,No,No,Very Positive
+243,19,Female,On-Campus,3.86,2,EEE,4,2,1,4,Sometimes,Occasionally,No,Moderate,Rarely,7-8 hrs,After 12 AM,Good,Never,Yes,No,Never,<1 hrs,High,Average,Never,No,No,No,No Impact
+244,21,Female,On-Campus,3.22,1,LLB,4,4,1,5,Sometimes,Occasionally,No,Low,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Often,1-2 hrs,Low,Poor,Never,No,Yes,No,No Impact
+245,28,Female,Off-Campus,3.27,1,BBA,4,1,2,1,Always,Occasionally,No,High,Always,7-8 hrs,After 12 AM,Good,Rarely,Yes,No,Always,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+246,21,Male,On-Campus,2.99,4,LLB,4,1,2,1,Never,Occasionally,No,High,Always,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,1-2 hrs,Moderate,Average,Never,No,No,No,Somewhat Negative
+247,21,Male,With Family,3.49,4,EEE,4,2,2,2,Always,Never,Yes,High,Often,7-8 hrs,11-12 AM,Good,Sometimes,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+248,18,Male,On-Campus,3.25,3,Pharmacy,4,1,3,2,Often,Occasionally,No,High,Sometimes,5-6 hrs,After 12 AM,Good,Never,Yes,No,Never,1-2 hrs,High,Average,Never,No,Yes,No,No Impact
+249,21,Male,With Family,3.42,3,Pharmacy,4,5,1,2,Often,Never,No,High,Sometimes,5-6 hrs,11-12 AM,Poor,Never,Yes,Yes,Never,<1 hrs,Moderate,Average,Never,No,No,No,Somewhat Positive
+250,18,Female,With Family,3.2,3,CSE,3,3,3,1,Rarely,Never,No,Moderate,Always,<5 hrs,After 12 AM,Good,Rarely,Yes,No,Never,3-4 hrs,High,Poor,Never,No,Yes,No,No Impact
+251,23,Female,With Family,3.49,1,Pharmacy,3,4,1,4,Rarely,Occasionally,No,Low,Always,<5 hrs,After 12 AM,Average,Almost Always,Yes,No,Never,>4 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Positive
+252,21,Female,Off-Campus,3.62,2,EEE,3,1,4,5,Rarely,Never,Yes,High,Sometimes,5-6 hrs,11-12 AM,Average,Rarely,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+253,21,Male,On-Campus,3.46,2,CSE,3,1,1,3,Rarely,Occasionally,No,High,Always,5-6 hrs,After 12 AM,Poor,Sometimes,Yes,No,Rarely,1-2 hrs,Low,Average,Never,No,Yes,No,Somewhat Negative
+254,23,Male,On-Campus,3.58,2,LLB,3,1,1,5,Often,Never,No,Moderate,Often,7-8 hrs,10-11 PM,Good,Rarely,Yes,No,Rarely,2-3 hrs,Low,Poor,Never,No,Yes,No,Very Positive
+255,25,Male,On-Campus,3.58,3,LLB,3,2,2,2,Rarely,Never,No,Moderate,Sometimes,7-8 hrs,After 12 AM,Good,Rarely,Yes,Yes,Rarely,<1 hrs,Low,Average,Occasionally,No,Yes,No,No Impact
+256,25,Female,Off-Campus,3.82,3,CIVIL,3,2,1,3,Rarely,Occasionally,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,<1 hrs,Moderate,Average,Frequently,No,Yes,No,Somewhat Positive
+257,24,Male,On-Campus,3.77,4,EEE,3,1,4,1,Often,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Never,Yes,Yes,Never,2-3 hrs,High,Good,Never,Yes,No,No,Somewhat Positive
+258,22,Female,On-Campus,3.96,1,Pharmacy,3,4,1,5,Always,Occasionally,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Often,<1 hrs,Moderate,Average,Never,No,Yes,Yes,Very Negative
+259,21,Male,With Family,3.77,1,EEE,3,1,1,3,Always,Occasionally,Yes,Moderate,Always,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Often,>4 hrs,High,Average,Never,No,Yes,No,Somewhat Negative
+260,18,Female,On-Campus,3.72,4,CSE,3,1,5,1,Never,Never,No,Moderate,Often,7-8 hrs,After 12 AM,Average,Rarely,Yes,Yes,Never,1-2 hrs,Low,Poor,Never,No,Yes,No,Somewhat Negative
+261,24,Male,With Family,3.66,4,Pharmacy,3,5,3,1,Always,Never,No,Moderate,Often,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,1-2 hrs,High,Poor,Never,No,Yes,Yes,No Impact
+262,28,Male,On-Campus,3.18,3,LLB,3,2,4,2,Sometimes,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Average,Rarely,Yes,Yes,Rarely,2-3 hrs,Moderate,Poor,Occasionally,No,Yes,No,No Impact
+263,22,Female,On-Campus,3.67,1,CIVIL,3,3,2,4,Rarely,Occasionally,No,Moderate,Often,5-6 hrs,After 12 AM,Poor,Rarely,Yes,Yes,Often,>4 hrs,Moderate,Poor,Occasionally,No,Yes,No,Very Negative
+264,23,Male,Off-Campus,3.57,2,Pharmacy,3,2,2,1,Rarely,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,>4 hrs,Moderate,Poor,Occasionally,No,Yes,No,Somewhat Negative
+265,18,Male,On-Campus,3.45,4,BBA,3,2,1,1,Often,Never,No,Low,Sometimes,7-8 hrs,After 12 AM,Average,Sometimes,Yes,No,Rarely,1-2 hrs,High,Poor,Never,No,Yes,No,Somewhat Positive
+266,21,Male,With Family,3.41,3,LLB,3,1,1,3,Never,Never,No,Low,Always,5-6 hrs,11-12 AM,Poor,Sometimes,Yes,No,Never,2-3 hrs,Moderate,Average,Never,No,No,No,No Impact
+267,21,Male,Off-Campus,3.35,1,BBA,3,1,3,4,Rarely,Occasionally,No,Moderate,Always,7-8 hrs,11-12 AM,Average,Sometimes,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Negative
+268,21,Male,On-Campus,3.51,4,LLB,3,1,1,5,Always,Never,No,Moderate,Often,7-8 hrs,After 12 AM,Good,Sometimes,Yes,No,Often,3-4 hrs,High,Average,Never,No,Yes,No,Somewhat Negative
+269,18,Male,On-Campus,3.41,5,CIVIL,3,3,1,1,Sometimes,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,>4 hrs,High,Average,Never,No,Yes,Yes,No Impact
+270,24,Male,On-Campus,3.53,5,CSE,2,1,1,4,Never,Occasionally,Yes,High,Always,5-6 hrs,After 12 AM,Good,Rarely,Yes,Yes,Never,>4 hrs,Low,Poor,Occasionally,No,No,No,Somewhat Negative
+271,18,Male,Off-Campus,3.21,4,Pharmacy,2,1,4,1,Rarely,Occasionally,No,Low,Sometimes,5-6 hrs,After 12 AM,Poor,Rarely,Yes,No,Rarely,1-2 hrs,Moderate,Average,Never,No,Yes,No,Very Positive
+272,23,Female,On-Campus,3.53,5,Pharmacy,2,2,2,2,Always,Never,No,High,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Never,3-4 hrs,Low,Average,Never,No,Yes,Yes,Somewhat Positive
+273,23,Female,With Family,2.99,2,LLB,2,1,1,2,Sometimes,Frequently,Yes,Moderate,Always,5-6 hrs,After 12 AM,Average,Never,Yes,No,Never,2-3 hrs,Moderate,Poor,Never,No,Yes,No,No Impact
+274,21,Male,On-Campus,3.35,3,Pharmacy,2,1,1,3,Rarely,Never,No,High,Always,7-8 hrs,After 12 AM,Good,Rarely,Yes,No,Never,<1 hrs,Moderate,Poor,Never,No,Yes,No,Very Negative
+275,18,Male,Off-Campus,3.56,4,Pharmacy,2,4,1,2,Never,Never,No,High,Always,7-8 hrs,After 12 AM,Good,Rarely,Yes,Yes,Rarely,1-2 hrs,Low,Good,Never,No,Yes,No,No Impact
+276,18,Male,Off-Campus,3.22,1,Pharmacy,2,1,2,3,Sometimes,Never,Yes,Moderate,Rarely,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,<1 hrs,Moderate,Average,Occasionally,No,Yes,No,Somewhat Negative
+277,21,Male,On-Campus,3.77,1,Pharmacy,2,2,1,1,Always,Occasionally,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Often,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+278,21,Male,On-Campus,3.16,4,Pharmacy,2,4,5,4,Sometimes,Occasionally,Yes,High,Always,5-6 hrs,After 12 AM,Average,Never,Yes,Yes,Never,1-2 hrs,High,Poor,Never,No,Yes,No,No Impact
+279,19,Male,On-Campus,2.7,4,CSE,2,2,5,1,Never,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Often,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,Yes,Yes,Somewhat Negative
+280,22,Male,On-Campus,3.75,4,EEE,2,2,1,1,Often,Never,Yes,Moderate,Often,5-6 hrs,After 12 AM,Good,Sometimes,Yes,No,Rarely,3-4 hrs,Moderate,Good,Never,No,Yes,Yes,Somewhat Positive
+281,22,Male,On-Campus,2.94,1,BBA,2,2,5,4,Rarely,Occasionally,No,Low,Always,<5 hrs,After 12 AM,Average,Rarely,Yes,Yes,Rarely,1-2 hrs,Low,Poor,Never,No,Yes,Yes,Somewhat Positive
+282,22,Female,With Family,3.13,5,EEE,2,1,3,5,Rarely,Never,No,Low,Always,7-8 hrs,After 12 AM,Average,Sometimes,No,No,Never,2-3 hrs,Moderate,Average,Never,No,No,No,No Impact
+283,23,Female,Off-Campus,3.15,5,CSE,2,1,5,2,Always,Never,No,Low,Rarely,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Often,<1 hrs,Low,Poor,Never,No,No,No,Very Negative
+284,21,Male,On-Campus,3.21,2,Pharmacy,2,4,2,2,Rarely,Occasionally,No,Moderate,Always,<5 hrs,After 12 AM,Poor,Never,Yes,No,Often,2-3 hrs,Moderate,Poor,Never,No,Yes,No,Somewhat Negative
+285,22,Male,Off-Campus,3.4,2,EEE,2,1,4,4,Sometimes,Never,No,Low,Always,7-8 hrs,After 12 AM,Good,Rarely,Yes,Yes,Never,<1 hrs,Moderate,Average,Never,No,Yes,Yes,Very Positive
+286,19,Female,Off-Campus,2.93,5,CIVIL,2,2,3,3,Rarely,Occasionally,No,Low,Sometimes,<5 hrs,After 12 AM,Good,Almost Always,Yes,No,Often,1-2 hrs,Moderate,Average,Never,No,Yes,Yes,Very Negative
+287,18,Male,On-Campus,3.78,1,BBA,2,3,2,3,Always,Never,No,Moderate,Often,5-6 hrs,After 12 AM,Good,Often,Yes,No,Often,3-4 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+288,19,Male,Off-Campus,3.21,4,Pharmacy,2,4,1,4,Often,Occasionally,No,Low,Always,5-6 hrs,After 12 AM,Good,Often,Yes,No,Never,1-2 hrs,Low,Average,Never,No,Yes,No,Very Positive
+289,21,Female,Off-Campus,3.11,5,CSE,2,2,3,2,Sometimes,Never,No,High,Sometimes,5-6 hrs,Before 10 PM,Good,Sometimes,No,Yes,Rarely,3-4 hrs,Low,Average,Never,No,Yes,No,Somewhat Positive
+290,18,Female,Off-Campus,3.58,1,CIVIL,2,3,4,1,Always,Occasionally,No,High,Often,5-6 hrs,After 12 AM,Good,Almost Always,No,No,Never,2-3 hrs,Moderate,Average,Never,Yes,Yes,No,No Impact
+291,24,Male,On-Campus,3.22,2,LLB,3,1,5,3,Always,Never,Yes,Moderate,Often,5-6 hrs,After 12 AM,Average,Sometimes,Yes,Yes,Rarely,>4 hrs,Moderate,Average,Never,No,Yes,No,Somewhat Positive
+292,18,Female,On-Campus,2.81,2,CSE,3,1,3,5,Never,Never,No,Moderate,Always,7-8 hrs,11-12 AM,Poor,Rarely,Yes,No,Never,2-3 hrs,High,Poor,Never,Yes,No,No,No Impact
+293,22,Female,Off-Campus,3.5,3,Pharmacy,3,3,1,1,Never,Frequently,Yes,Low,Often,7-8 hrs,After 12 AM,Average,Never,Yes,No,Rarely,>4 hrs,Moderate,Good,Never,No,No,No,No Impact
+294,19,Female,Off-Campus,3.4,4,CSE,3,1,2,3,Rarely,Occasionally,No,Moderate,Often,<5 hrs,After 12 AM,Good,Never,Yes,No,Never,1-2 hrs,High,Average,Never,No,Yes,No,Somewhat Positive
+295,23,Female,With Family,3.58,1,CSE,3,3,3,4,Always,Never,No,Moderate,Sometimes,<5 hrs,After 12 AM,Good,Often,Yes,No,Never,>4 hrs,Moderate,Average,Never,No,No,No,No Impact
+296,24,Female,On-Campus,3.12,3,LLB,3,2,1,3,Rarely,Never,No,Moderate,Sometimes,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Often,<1 hrs,Moderate,Poor,Occasionally,No,Yes,No,No Impact
+297,25,Male,With Family,3.8,4,Pharmacy,3,2,3,5,Rarely,Occasionally,No,Moderate,Never,5-6 hrs,After 12 AM,Average,Almost Always,Yes,No,Always,<1 hrs,High,Good,Never,No,Yes,Yes,No Impact
+298,18,Female,With Family,3.51,3,CSE,3,1,5,3,Rarely,Never,No,Moderate,Always,5-6 hrs,After 12 AM,Good,Rarely,Yes,No,Never,>4 hrs,High,Average,Never,No,No,No,No Impact
+299,23,Male,With Family,3.18,5,LLB,3,3,1,3,Often,Never,No,Moderate,Always,<5 hrs,After 12 AM,Average,Never,Yes,Yes,Never,3-4 hrs,Moderate,Poor,Frequently,No,No,No,Very Positive
+300,18,Male,On-Campus,3.61,1,LLB,3,1,3,3,Always,Never,No,Low,Rarely,7-8 hrs,After 12 AM,Average,Almost Always,Yes,No,Never,<1 hrs,Moderate,Average,Never,No,Yes,No,No Impact
