@@ -1,0 +1,47 @@
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Raw / heavy data (commit only small samples + aggregated CSVs)
+data/raw/*
+!data/raw/test_run.jsonl
+!data/raw/Data_cleaned.csv
+!data/raw/DATA_SOURCE.md
+data/raw/full_dumps/
+*.log
+*.parquet
+*.h5
+*.npy
+*.npz
+
+# Model weights / large binaries
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+models/
+
+# Secrets & environment
+.env
+*.key
+*.pem
+secrets/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
