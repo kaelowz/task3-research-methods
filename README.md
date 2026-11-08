@@ -145,15 +145,21 @@ Share of students with good sleep quality by pre-bedtime device use:
 *Figure 4. RQ2 / RQ3 — adjusted odds ratios with 95 % CI (log scale). Vector: `fig4_odds_ratios_forest.pdf`.*
 
 ### Discussion
-- **RQ1 / RQ2 (device use):** the share of good sleepers is essentially the same in users (53 %) and non-users (52 %), and device use is not associated with difficulty falling asleep. All 95 % CIs include the null value. **No evidence of an association was found** — but only 23 students report no device use, so the comparison has low power and cannot rule out a moderate effect.
-- **Stress:** higher stress is associated with lower odds of good sleep quality (adjusted OR per stress point = 0.76, 95 % CI [0.64, 0.90]), the only effect in the pre-specified direction.
-- **Unexpected finding:** sleeping ≥ 7 h showed a borderline association with *lower* odds of good self-rated quality (p = 0.055). With coarse categories and self-rated quality this is more likely an artefact than a real effect.
-- Results are consistent with the literature on stress and sleep, but our data **do not replicate** the device-use effects reported in the cited studies — a point worth discussing rather than hiding.
+RQ1 — Device Use and Sleep Quality: Good sleep quality was reported by 53% of device users and 52% of non-users. No statistically significant association was found (OR = 1.04, p = 1.000). However, only 23 students did not use devices before bedtime, which limits the reliability of the comparison.
+
+RQ2 — Difficulty Falling Asleep: Device use (p = 0.616), stress (p = 0.239), and night-time caffeine consumption (p = 0.566) were not significantly associated with difficulty falling asleep.
+
+RQ3 — Good Sleep Quality: Higher stress was significantly associated with lower odds of good sleep quality (OR = 0.76, p = 0.001). Sleeping at least 7 hours showed an unexpected but statistically non-significant result (OR = 0.62, p = 0.055).
+Conclusion: Stress was the main statistically significant factor associated with sleep quality. No significant association with bedtime device use was found, but further research is needed.
 
 ### Limitations
-Cross-sectional design (association ≠ causation); self-reported, coarse measures; no PSQI, screen-time hours or latency in minutes
-(proxies used); strongly unbalanced exposure (~92 % use devices before bed); single-institution convenience sample;
-exploratory analyses without multiplicity correction; secondary data, so the measurement protocol is not under our control.
+- Sample imbalance: 277 device users compared with only 23 non-users.
+- Self-reported data: Sleep quality was measured without PSQI.
+- Limited measurements: No exact screen-time duration or sleep-onset latency in minutes.
+- Cross-sectional design: The results cannot establish causation.
+- Sampling limitations: Single-institution convenience sample and exploratory analyses without multiple-testing correction.
+
+Future Recommendations: Future studies should use larger, more balanced samples, validated sleep questionnaires (PSQI), and detailed screen-time measurements.
 
 ## Domain Model
 
