@@ -1,0 +1,17 @@
+rq,test,estimate,ci_low,ci_high,p_value,n,h1_met,model,term
+RQ1,"Risk difference, good sleep: device users - non-users",0.008947,-0.201067,0.229795,1.0,300,False,,
+RQ1,"Odds ratio of good sleep, users vs non-users (Fisher exact)",1.036538,0.442374,2.428739,1.0,300,False,,
+RQ1,"Rank-biserial r, sleep-quality rank, users vs non-users (Mann-Whitney)",0.008319,-0.205191,0.248634,0.941819,300,False,,
+RQ2,"Ordered-logit OR, difficulty falling asleep: pre-bedtime device use (yes vs no)",0.825722,0.39071,1.745073,0.615964,300,False,RQ2 ordinal logit,pre-bedtime device use (yes vs no)
+RQ2,"Ordered-logit OR, difficulty falling asleep: stress level (+1 point)",0.917186,0.794333,1.059041,0.238736,300,False,RQ2 ordinal logit,stress level (+1 point)
+RQ2,"Ordered-logit OR, difficulty falling asleep: night-time caffeine (yes vs no)",0.866993,0.532451,1.41173,0.566125,300,False,RQ2 ordinal logit,night-time caffeine (yes vs no)
+RQ2,"Ordered-logit OR, difficulty falling asleep: male vs female",1.230911,0.818918,1.850177,0.317708,300,,RQ2 ordinal logit,male vs female
+RQ2,"Ordered-logit OR, difficulty falling asleep: age (+1 year)",0.989373,0.926972,1.055974,0.747881,300,,RQ2 ordinal logit,age (+1 year)
+RQ2,Spearman rho: stress level vs difficulty falling asleep,-0.065955,-0.175156,0.04483,0.254765,300,False,,
+RQ3,"Logistic OR, good sleep quality: sleep duration >= 7 h (vs < 7 h)",0.61526,0.374337,1.01124,0.055381,300,False,RQ3 logistic,sleep duration >= 7 h (vs < 7 h)
+RQ3,"Logistic OR, good sleep quality: bedtime after 12 AM",1.145447,0.583354,2.249146,0.693253,300,False,RQ3 logistic,bedtime after 12 AM
+RQ3,"Logistic OR, good sleep quality: pre-bedtime device use",0.942017,0.387484,2.290149,0.895153,300,False,RQ3 logistic,pre-bedtime device use
+RQ3,"Logistic OR, good sleep quality: stress level (+1 point)",0.757519,0.640158,0.896395,0.001223,300,True,RQ3 logistic,stress level (+1 point)
+RQ3,"Logistic OR, good sleep quality: night-time caffeine",0.860572,0.494927,1.49635,0.594714,300,False,RQ3 logistic,night-time caffeine
+RQ3,"Logistic OR, good sleep quality: male vs female",0.988293,0.619214,1.57736,0.960627,300,,RQ3 logistic,male vs female
+RQ3,"Logistic OR, good sleep quality: age (+1 year)",0.975585,0.904351,1.05243,0.522841,300,,RQ3 logistic,age (+1 year)
