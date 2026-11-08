@@ -171,7 +171,7 @@ with their loss functions, and a notation table: **[docs/domain_model.md](docs/d
   author = {Karabai, Eldos and Serikova, Zhanel},
   year   = {2026},
   note   = {Research Methods, Narxoz University},
-  url    = {https://github.com/<user>/<repo>}
+  url    = {https://github.com/kaelowz/task3-research-methods}
 }
 ```
 
